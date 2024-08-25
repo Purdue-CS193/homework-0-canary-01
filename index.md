@@ -1,7 +1,7 @@
 # Ben's First CS193 Homework
--Cool instructors
--Cool building
--Neat homework
+- Cool instructors
+- Cool building
+- Neat homework
 
 ## Welcome to GitHub Pages
 
